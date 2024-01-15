@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://varinderdhillon.netlify.app/](https://varinderdhillon.netlify.app/)
 
-- 📫 How to reach me **virenderdhill104@gmail.com**
+- 📫 How to reach me **virenderdhillon104@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
